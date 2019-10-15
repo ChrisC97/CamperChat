@@ -1,0 +1,7 @@
+{
+  "appId": "com.cc.camperchat",
+  "appName": "camperchat",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}

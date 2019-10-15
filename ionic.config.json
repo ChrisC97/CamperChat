@@ -1,0 +1,7 @@
+{
+  "name": "camperchat",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

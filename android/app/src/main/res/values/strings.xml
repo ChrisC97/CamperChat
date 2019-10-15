@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">camperchat</string>
+    <string name="title_activity_main">camperchat</string>
+    <string name="package_name">com.cc.camperchat</string>
+    <string name="fileprovider_authority">com.cc.camperchat.fileprovider</string>
+    <string name="custom_url_scheme">com.cc.camperchat</string>
+</resources>
